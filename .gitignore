@@ -1,3 +1,10 @@
+# Large data files 
+big_files/
+Extranet2.ExactFuelEvents.csv
+Extranet2.ExactFuelTankLevels.csv
+Extranet2.ExactFuelEvents.csv.zip
+Extranet2.ExactFuelTankLevels.csv.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
